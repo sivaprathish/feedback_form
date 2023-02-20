@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vertical layout</string>
+    <string name="TO">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+</resources>
